@@ -1,0 +1,6 @@
+/home/david/d/project/cpp/opengl/shaders/triangle_rainbow/build/CMakeFiles/tutorial.dir
+/home/david/d/project/cpp/opengl/shaders/triangle_rainbow/build/CMakeFiles/edit_cache.dir
+/home/david/d/project/cpp/opengl/shaders/triangle_rainbow/build/CMakeFiles/rebuild_cache.dir
+/home/david/d/project/cpp/opengl/shaders/triangle_rainbow/build/glad/CMakeFiles/glad.dir
+/home/david/d/project/cpp/opengl/shaders/triangle_rainbow/build/glad/CMakeFiles/edit_cache.dir
+/home/david/d/project/cpp/opengl/shaders/triangle_rainbow/build/glad/CMakeFiles/rebuild_cache.dir
